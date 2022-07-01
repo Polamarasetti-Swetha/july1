@@ -1,0 +1,6 @@
+l=[]
+n=int(input('Enter n'))
+for i in range(n):
+    x=int(input('Enter values'))
+    l.append(x)
+print(l)   
